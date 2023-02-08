@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "vitrine-back(2)/1.0.0": {
+        "runtime": {
+          "vitrine-back(2).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vitrine-back(2)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
